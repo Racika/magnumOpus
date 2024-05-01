@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/magnumOpus.iml" filepath="$PROJECT_DIR$/.idea/magnumOpus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Folder/.idea/magnumOpus.iml" filepath="$PROJECT_DIR$/Folder/.idea/magnumOpus.iml" />
     </modules>
   </component>
 </project>
